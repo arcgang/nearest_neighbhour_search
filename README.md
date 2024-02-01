@@ -1,0 +1,1 @@
+Notebook demonstrating the scan latency when full linear scan is performed versus a specific ANN algorithm is used. 
